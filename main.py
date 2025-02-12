@@ -3,7 +3,7 @@ from tkinter import messagebox
 import requests
 import webbrowser
 
-API_KEY = "YOUR_YOUTUBE_API_KEY"  # Replace with your YouTube Data API key
+API_KEY =  # Replace with your YouTube Data API key
 
 class YouTubeRecommender(tk.Tk):
     def __init__(self):
